@@ -1,5 +1,10 @@
 .App {
+  margin: 0;
+  padding: 0;
   text-align: center;
+  /* background-image: url(https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1689396025/230713-Frank-Pokemon-Sleep-tease_fsfxcw);
+  background-size: cover;
+  background-repeat: no-repeat; */
 }
 
 .App-logo {
@@ -35,4 +40,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.pokemon-game {
+  font-size: 60px;
+  color: #e7627d;
 }
